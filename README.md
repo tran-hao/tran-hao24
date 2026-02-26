@@ -3,7 +3,7 @@
 This repository contains my personal portfolio website, built to showcase my background, skills, and projects in finance and banking.
 
 ## 🌐 Live Website
-👉 https://tranhao.github.io/
+👉 https://tran-hao.github.io/tran-hao24/
 
 ## 👩‍🎓 About Me
 I am a student at **Foreign Trade University (FTU)**, majoring in **Finance and Banking**.  

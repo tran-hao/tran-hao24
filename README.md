@@ -1,49 +1,50 @@
 # 📊 Personal Portfolio | Trần Thị Hảo
-> **FTU Student | Finance & Banking Enthusiast**
+> **Finance & Banking Student @ Foreign Trade University (FTU)**
 
-Chào mừng bạn đến với kho lưu trữ Portfolio cá nhân của mình. Đây là nơi mình chia sẻ hành trình học tập, các kỹ năng chuyên môn và những dự án thực tế trong lĩnh vực Tài chính - Ngân hàng.
+Chào mừng bạn đến với kho lưu trữ Portfolio cá nhân của mình. Đây là không gian trưng bày hành trình phát triển, các dự án thực tế và niềm đam mê của mình trong lĩnh vực Tài chính - Ngân hàng.
 
 ---
 
-## 🌐 Trải nghiệm trực tiếp
-Bạn có thể xem bản đầy đủ của Portfolio tại đây:
-👉 **[tran-hao.github.io/tran-hao24/](https://tran-hao.github.io/tran-hao24/)**
+## 🌐 Trải nghiệm trực tiếp (Live Demo)
+Trang web được thiết kế hiện đại với tông màu xanh chủ đạo, tối ưu hóa hiển thị trên mọi thiết bị:
+👉 **[Xem Portfolio của mình tại đây](https://tran-hao.github.io/tran-hao24/)**
 
 ---
 
 ## 👩‍🎓 Giới thiệu bản thân
-Mình là sinh viên khoa **Tài chính - Ngân hàng** tại **Trường Đại học Ngoại thương (FTU)**. 
-- **Đam mê:** Phân tích dữ liệu tài chính, quản trị rủi ro và thị trường chứng khoán.
-- **Mục tiêu:** Tìm kiếm cơ hội thực tập để áp dụng tư duy định lượng và kỹ năng phân tích vào môi trường tài chính chuyên nghiệp.
+Mình là sinh viên khoa **Tài chính - Ngân hàng** tại **Đại học Ngoại thương**. Với nền tảng tư duy logic từ toán học, mình tập trung vào việc chuyển hóa các con số thành những phân tích có giá trị.
+
+- **Định hướng:** Chuyên viên phân tích tài chính (Financial Analyst).
+- **Thế mạnh:** Phân tích báo cáo tài chính, quản lý dòng tiền và sử dụng Excel chuyên sâu.
 
 ---
 
-## 🛠 Kỹ năng & Công cụ
-| Lĩnh vực | Kỹ năng & Công cụ |
-| :--- | :--- |
-| **Chuyên môn** | Phân tích BCTC, Tài chính doanh nghiệp, Ngân hàng cơ bản |
-| **Kỹ thuật** | Microsoft Excel (Advanced), HTML5, CSS3, Git/GitHub |
-| **Mềm** | Tư duy logic, Thuyết trình, Giao tiếp chuyên nghiệp |
+## 🛠 Kỹ năng & Công cụ (Tech Stack)
+
+### 📈 Chuyên môn Tài chính
+* **Phân tích BCTC:** Đọc hiểu và đánh giá sức khỏe tài chính doanh nghiệp.
+* **Tài chính doanh nghiệp:** Quản trị rủi ro và tối ưu hóa nguồn vốn.
+* **Thị trường:** Phân tích xu hướng chứng khoán và ngân hàng.
+
+### 💻 Kỹ thuật & Công cụ
+* **Data Tools:** Microsoft Excel (Advanced), Power Query.
+* **Web Tech:** HTML5, CSS3 (Responsive Design).
+* **Version Control:** Git, GitHub Pages.
 
 ---
 
-## 📂 Cấu trúc Website
-Trang Portfolio của mình bao gồm các phần chính:
-* **About Me:** Quá trình hình thành tư duy tài chính.
-* **Skills:** Các thẻ kỹ năng trực quan.
-* **Projects & Experience:** Kinh nghiệm thực tế tại *Cửu Diệu Thiên* và các dự án cá nhân.
-* **Education:** Thông tin học vấn tại FTU.
-* **Contact:** Liên kết mạng xã hội và thông tin liên lạc.
+## 🚀 Dự án tiêu biểu
+
+Trong Portfolio này, mình tập trung làm nổi bật 3 cột mốc quan trọng:
+
+1. **Câu lạc bộ Toán học:** Xây dựng nền tảng tư duy định lượng vững chắc.
+2. **Thực tập tại Cửu Diệu Thiên:** Tiếp cận thực tế quy trình vận hành tài chính doanh nghiệp.
+3. **Quản lý Tài chính cá nhân:** Ứng dụng Excel để tối ưu hóa kế hoạch chi tiêu và đầu tư.
 
 ---
 
-## 📫 Kết nối với mình
-Nếu bạn quan tâm đến hồ sơ của mình hoặc muốn trao đổi về cơ hội nghề nghiệp, đừng ngần ngại liên hệ:
-
-* **Email:** [tranhao24022006@gmail.com](mailto:tranhao24022006@gmail.com)
-* **GitHub:** [@tranhao02](https://github.com/tranhao02)
-* **Facebook:** [Trần Thị Hảo](https://www.facebook.com/hao.hao.830517/)
-* **Instagram:** [@tr_hao02](https://www.instagram.com/tr_hao02?igsh=MWF0OTFlZ3lhZHp3eg==)
-
----
-*Cảm ơn bạn đã ghé thăm repository của mình!* 🌟
+## 📂 Cấu trúc mã nguồn
+```text
+├── index.html          # File code chính (HTML5 & CSS3)
+├── github.jpg          # Ảnh đại diện cá nhân
+└── README.md           # Hướng dẫn và giới thiệu dự án

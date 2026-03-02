@@ -33,6 +33,15 @@
       text-align: center;
     }
 
+    .avatar {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 4px solid white;
+      margin-bottom: 20px;
+    }
+
     header h1 {
       font-size: 42px;
       margin-bottom: 10px;
@@ -105,14 +114,6 @@
       margin: 5px 5px 0 0;
     }
 
-    footer {
-      text-align: center;
-      padding: 40px 20px;
-      background: #111827;
-      color: #9ca3af;
-      font-size: 14px;
-    }
-
     .contact a {
       display: inline-block;
       margin: 8px 15px;
@@ -120,12 +121,21 @@
       color: var(--accent);
       font-weight: 600;
     }
+
+    footer {
+      text-align: center;
+      padding: 40px 20px;
+      background: #111827;
+      color: #9ca3af;
+      font-size: 14px;
+    }
   </style>
 </head>
 
 <body>
 
 <header>
+  <img src="img/avatar.jpg" alt="Avatar" class="avatar">
   <h1>Trần Thị Hảo</h1>
   <p>FTU Student • Finance and Banking</p>
 </header>
@@ -143,83 +153,62 @@
 <section id="about">
   <h2>About Me</h2>
   <p>
-    I am currently a student at 
-    <strong>Foreign Trade University (FTU)</strong>, 
+    I am currently a student at <strong>Foreign Trade University (FTU)</strong>,
     majoring in <strong>Finance and Banking</strong>.
     I have a strong passion for finance and enjoy working with numbers,
     particularly in financial analysis and data interpretation.
-    My goal is to transform data into meaningful insights that support
-    effective financial and business decision-making.
   </p>
   <p>
-    I am actively seeking internship opportunities in banking and finance
-    to further develop my analytical skills in a professional working environment.
+    I am seeking internship opportunities in banking and finance
+    to further develop my analytical skills in a professional environment.
   </p>
 </section>
 
 <section id="skills">
   <h2>Skills</h2>
   <div class="grid">
-
     <div class="card">
       <h3>Finance & Banking</h3>
       <span class="tag">Financial Analysis</span>
-      <span class="tag">Banking Fundamentals</span>
       <span class="tag">Corporate Finance</span>
-      <span class="tag">Market Research</span>
+      <span class="tag">Banking Fundamentals</span>
     </div>
 
     <div class="card">
       <h3>Professional Skills</h3>
       <span class="tag">Data Interpretation</span>
-      <span class="tag">Financial Reporting</span>
       <span class="tag">Presentation</span>
       <span class="tag">Communication</span>
     </div>
-
   </div>
 </section>
 
 <section id="projects">
   <h2>Projects & Experience</h2>
   <div class="grid">
-
     <div class="card">
       <h3>Mathematics Club</h3>
       <p>
-        Participated in activities of the Mathematics Club, focusing on
-        logical thinking, numerical problem-solving, and analytical skills.
-        These activities helped strengthen my quantitative foundation,
-        which is essential for finance and banking studies.
+        Developed logical thinking and numerical problem-solving skills,
+        strengthening my quantitative foundation for finance studies.
       </p>
-      <span class="tag">Quantitative Thinking</span>
-      <span class="tag">Problem Solving</span>
     </div>
 
     <div class="card">
       <h3>Internship – Cửu Diệu Thiên</h3>
       <p>
-        Assisted with daily business operations, supported basic financial
-        tracking tasks, and helped organize internal data for reporting purposes.
-        Gained practical exposure to business workflows and fundamental financial processes.
+        Assisted with business operations and basic financial tracking tasks,
+        gaining practical exposure to real business workflows.
       </p>
-      <span class="tag">Business Operations</span>
-      <span class="tag">Finance Support</span>
     </div>
 
     <div class="card">
-      <h3>Personal Finance Analysis Project</h3>
+      <h3>Personal Finance Project</h3>
       <p>
-        Developed a simple personal finance project to track cash flows,
-        analyze spending patterns, and evaluate saving efficiency.
-        The project applied basic financial concepts to real-life data,
-        enhancing my understanding of financial planning and decision-making.
+        Built a simple personal finance analysis project to track cash flows
+        and evaluate saving efficiency.
       </p>
-      <span class="tag">Cash Flow</span>
-      <span class="tag">Financial Analysis</span>
-      <span class="tag">Finance Basics</span>
     </div>
-
   </div>
 </section>
 
@@ -228,23 +217,22 @@
   <div class="card">
     <h3>Foreign Trade University (FTU)</h3>
     <p><strong>Major:</strong> Finance and Banking</p>
-    <p><strong>Academic Focus:</strong> Financial Analysis, Banking Operations, Corporate Finance</p>
-  </div>
+</div>
 </section>
 
-<section id="contact">
-  <h2>Contact</h2>
-  <div class="contact">
-    <a href="mailto:tranhao24022006@gmail.com">Email</a>
-    <a href="https://github.com/tranhao02" target="_blank">GitHub</a>
-    <a href="https://www.facebook.com/hao.hao.830517/" target="_blank">Facebook</a>
-    <a href="https://www.instagram.com/tr_hao02?igsh=MWF0OTFlZ3lhZHp3eg==" target="_blank">Instagram</a>
+<!-- CONTACT -->
+<section id="contact" class="section">
+    <h2>Liên hệ 📬</h2>
+    <a class="btn" href="" target="_blank">
+        Facebook của mình 💗
+    </a>
+</section>
   </div>
 </section>
 
 <footer>
   © 2026 Trần Thị Hảo | Personal Portfolio  
-  <br>Built with HTML / CSS / JS
+  <br>Built with HTML & CSS
 </footer>
 
 </body>
